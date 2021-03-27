@@ -9,12 +9,19 @@ There is no significant linear relationship between the fraud reported target va
 Fraudulent Insurance Claims dataset located at https://www.kaggle.com/patilk1/fraudulentinsuranceclaim
 # Techniques
 •	Histograms
+
 •	Descriptive statistics
+
 •	Probability mass function
+
 •	Cumulative distribution function
+
 •	Probability plot
+
 •	Scatter plots
+
 •	Point-Serial Correlation
+
 •	Permutation tests
 # Outcome
 Through statistical analysis and hypothesis testing, I rejected the null hypothesis that there is no difference in the means of Total Claim Amount variable in the fraud reported subset versus the fraud not reported subset, but concluded that it is plausible that the observed difference in means between the other variables in the fraud reported subset and the fraud not reported subset are just the result of random sampling and rejected the null hypothesis for all variables other than the Total Claim Amount variable.
