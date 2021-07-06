@@ -15,7 +15,7 @@ This project used exploratory data analysis and statistical techniques in Python
 * There is no significant linear relationship between the fraud reported target variable and any of the claim transaction variables.
 
 ## Data
-Fraudulent Insurance Claims dataset located at https://www.kaggle.com/patilk1/fraudulentinsuranceclaim
+Fraudulent Insurance Claims dataset: [claims](https://www.kaggle.com/patilk1/fraudulentinsuranceclaim) 
 
 ## Techniques
 * Histograms
